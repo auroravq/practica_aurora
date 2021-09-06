@@ -1,0 +1,2 @@
+# practica_aurora
+aurora
